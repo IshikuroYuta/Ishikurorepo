@@ -29,10 +29,7 @@ codeでデスクトップの方を開く
 
 test
 
-<<<<<<< HEAD
 branchtest
-=======
 branchtest
 
 コンフリクト
->>>>>>> main
