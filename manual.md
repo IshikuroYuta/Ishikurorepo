@@ -30,5 +30,6 @@ codeでデスクトップの方を開く
 test
 
 branchtest
+branchtest
 
-conflict
+コンフリクト
