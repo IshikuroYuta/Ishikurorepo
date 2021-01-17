@@ -29,7 +29,7 @@ codeでデスクトップの方を開く
 
 test
 
-branchtest
+branchtest<br>
 branchtest
 
 コンフリクト
